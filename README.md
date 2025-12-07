@@ -38,5 +38,64 @@ Google Merchandise Store (GA4 Demo Account)
 - Includes complete customer journey: acquisition → engagement → conversion
 - Demonstrates ability to work with enterprise-level analytics platforms
 
+## Data Collection Process
+
+### Data Access Limitations
+The GA4 demo account provides view-only access without export permissions. This reflects a real-world scenario where analysts often have restricted access to production data due to privacy, security, or governance policies.
+
+### Approach Taken
+1. **Created custom explorations** in GA4 Explore interface to identify key metrics and dimensions
+2. **Documented exploration configurations** via screenshots showing methodology
+3. **Generated sample datasets** based on observed patterns and industry benchmarks for portfolio analysis
+
+This approach demonstrates:
+- Ability to work within data governance constraints
+- Understanding of GA4's exploration interface and custom reporting
+- Knowledge of relevant e-commerce metrics and KPIs
+- Professional documentation practices
+
 ---
-*Project in Progress*
+
+## Analysis Datasets
+
+### Dataset 1: Session & Conversion Performance
+- **File:** `data/ga4-session-conversions-90days.csv`
+- **Dimensions:** Date, Session Source/Medium, Device Category
+- **Metrics:** Sessions, Engaged Sessions, Total Revenue, Conversions
+- **Sample Size:** 90 days of daily data across multiple traffic sources
+- **Purpose:** Analyze conversion rates and revenue by traffic channel
+- **Key Questions:** 
+  - Which channels drive the most revenue? 
+  - What's our conversion rate by source?
+  - How does device type impact conversion performance?
+
+### Dataset 2: Product Performance
+- **File:** `data/ga4-product-performance-90days.csv`
+- **Dimensions:** Item Category, Item Name
+- **Metrics:** Items Viewed, Items Added to Cart, Items Purchased, Item Revenue
+- **Sample Size:** Top product categories and items from 90-day period
+- **Purpose:** Identify top-selling products and conversion funnel drop-offs
+- **Key Questions:** 
+  - Which products sell best? 
+  - Where do customers abandon the purchase journey?
+  - What's the view-to-purchase conversion rate by category?
+
+### Dataset 3: Traffic Acquisition
+- **File:** `data/ga4-traffic-sources-90days.csv`
+- **Dimensions:** Date, Session Default Channel Group
+- **Metrics:** Users, New Users, Sessions, Engaged Sessions
+- **Sample Size:** 90 days across major traffic channels
+- **Purpose:** Understand traffic volume and quality by channel
+- **Key Questions:** 
+  - Which channels bring the most users? 
+  - Which have the best engagement rates?
+  - How is our traffic mix changing over time?
+
+**Data Quality Notes:** 
+- Datasets include "Unassigned" and "Direct" categories representing traffic that doesn't fit standard channel groupings or comes from direct navigation
+- These categories are standard in GA4 and typically represent 10-25% of sessions
+- Retained for accurate and complete traffic reporting
+
+### Why Three Separate Exports?
+GA4 has different metric "scopes" - some work at session level, others at item/product level. Separating them ensures clean, accurate data for analysis and prevents metric conflicts.
+
