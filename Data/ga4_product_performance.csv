@@ -1,0 +1,48 @@
+Item_Category,Item_Name,Items_Viewed,Items_Added_to_Cart,Items_Purchased,Item_Revenue
+Apparel,Google Grey Hoodie,15234,3421,1876,56280.00
+Apparel,Android Pocket Tee,12876,2987,1654,33080.00
+Apparel,YouTube Ultimate Hoodie,11543,2654,1432,71600.00
+Apparel,Google Navy Speckled Tee,10234,2341,1289,25780.00
+Apparel,Chrome Canvas Tote,9876,2234,1201,24020.00
+Apparel,Android Lunch Kit,8765,1987,1098,27450.00
+Apparel,Google Black Hoodie,14567,3298,1798,53940.00
+Apparel,Nest Tee,7654,1765,967,19340.00
+Bags,Google Laptop Backpack,8234,1876,1034,72380.00
+Bags,Google Rucksack,7123,1654,912,63840.00
+Bags,Android Lunch Bag,6543,1456,823,20575.00
+Bags,YouTube Sling Bag,5987,1321,745,37250.00
+Bags,Chrome Mini Backpack,5432,1234,687,34350.00
+Drinkware,Google Stainless Steel Water Bottle,13456,3123,1723,51690.00
+Drinkware,Android Insulated Bottle,11234,2654,1467,44010.00
+Drinkware,YouTube Copper Mug,9876,2298,1289,38670.00
+Drinkware,Google Glass Water Bottle,8765,2034,1134,28350.00
+Drinkware,Nest Tumbler,7654,1789,998,24950.00
+Electronics,Google Phone Stand,6543,1523,876,21900.00
+Electronics,Android Wireless Charger,12876,2987,1678,83900.00
+Electronics,YouTube Power Bank,11234,2612,1456,87360.00
+Electronics,Google USB-C Earbuds,10567,2456,1376,68800.00
+Electronics,Chrome Bluetooth Speaker,9234,2145,1198,95840.00
+Electronics,Nest Cam Indoor,5432,1234,712,142400.00
+Electronics,Google Pixel Buds,8765,2034,1134,170100.00
+Office,Google Notebook Set,14567,3421,1923,38460.00
+Office,Android Sticky Notes,12345,2876,1612,8060.00
+Office,YouTube Pen Set,10234,2398,1345,20175.00
+Office,Google Pencil Pouch,8976,2089,1167,17505.00
+Office,Chrome Desk Organizer,7654,1789,998,39920.00
+Office,Nest Notepad,11234,2612,1456,14560.00
+Accessories,Google Lapel Pin,9876,2298,1289,6445.00
+Accessories,Android Sticker Pack,15678,3654,2045,10225.00
+Accessories,YouTube Keychain,13456,3123,1745,8725.00
+Accessories,Google Socks (3-pack),11234,2612,1456,29120.00
+Accessories,Chrome Phone Case,10123,2367,1323,39690.00
+Accessories,Nest Magnet Set,8765,2034,1134,11340.00
+Lifestyle,Google Yoga Mat,5432,1234,689,48230.00
+Lifestyle,Android Fitness Tracker,7654,1789,1001,100100.00
+Lifestyle,YouTube Sport Towel,6543,1523,853,17060.00
+Lifestyle,Google Sunglasses,8234,1912,1067,64020.00
+Lifestyle,Chrome Travel Pillow,4567,1045,589,23560.00
+Nest,Nest Learning Thermostat,3421,876,512,153600.00
+Nest,Nest Protect Smoke Alarm,2987,723,421,50520.00
+Nest,Nest Hello Doorbell,2654,645,378,90720.00
+Nest,Nest Mini Smart Speaker,6789,1623,912,45600.00
+Nest,Nest Wifi Router,4321,1034,601,120200.00
