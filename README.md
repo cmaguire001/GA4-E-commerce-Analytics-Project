@@ -31,7 +31,7 @@ Google Merchandise Store (GA4 Demo Account)
 
 **Data Time Period:** 
 - The demo account contains rolling data from the past several months
-- For this analysis, I will focus on [we'll determine this in next step]
+- For this analysis, I will focus on the past 90 days
 
 **Why This Dataset:**
 - Real-world e-commerce data from Google's official merchandise store
@@ -138,7 +138,18 @@ Complete data analysis performed in Python using:
 - Recommendation: Feature prominently in marketing campaigns
 
 **5. CRO Opportunity**
-- Current conversion rate: ~X.XX%
+-Overall Conversion Rate: 3.07%
+-Total Sessions: 111,208
+-Total Conversions: 3,419
+- Even small improvements yield substantial revenue gains
+- A 0.5% lift = $73,927 additional quarterly revenue
+- Priority focus: Mobile conversion (biggest gap identified)
+
+Revenue Impact of Conversion Rate Improvements:
+------------------------------------------------------------
+  +0.25% conversion = 278 conversions = $36,963.47
+  +0.5% conversion = 556 conversions = $73,926.93
+  +1.0% conversion = 1,112 conversions = $147,853.87%
 - Even small improvements yield substantial revenue gains
 - Recommendation: Implement A/B testing program
 
