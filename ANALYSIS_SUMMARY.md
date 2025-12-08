@@ -9,7 +9,19 @@ This project demonstrates end-to-end data analysis skills using Google Analytics
 3. What are our best-selling product categories?
 4. Where are the biggest opportunities for revenue growth?
 
-## 📈 Key Findings
+## 🎯 Key Business Impact
+
+**Primary Finding: $218,815 Mobile Revenue Opportunity**
+
+Mobile traffic accounts for 56% of sessions but converts at only 2.68% compared to desktop's 5.29%. Closing this conversion gap represents a $218K revenue opportunity with minimal additional traffic acquisition costs.
+
+**Quick Wins Identified:**
+- Mobile UX optimization: $218K opportunity
+- Paid search scaling: 20-30% revenue increase potential  
+- Organic search investment: Reduced CAC through SEO
+- Electronics category prominence: Revenue concentration strategy
+
+## 🎯 Key Findings
 
 ### Finding #1: Paid Search ROI
 - **Insight:** Google/CPC is the top revenue driver
@@ -21,10 +33,15 @@ This project demonstrates end-to-end data analysis skills using Google Analytics
 - **Data:** Consistent growth over 90-day period
 - **Action:** Double down on SEO content strategy
 
-### Finding #3: Device Optimization Gap
-- **Insight:** Desktop outperforms mobile in conversion
-- **Data:** X.XX percentage point gap in conversion rates
-- **Action:** Mobile UX audit and optimization
+### Finding #3: Mobile Represents Biggest Revenue Opportunity ⭐
+- **Insight:** Mobile receives 56% of all traffic but converts at only 2.68% vs desktop's 5.29%
+- **Data:** 2.61 percentage point conversion gap with 63,058 mobile sessions
+- **Opportunity:** If mobile conversion matched desktop, that's an additional **1,641 conversions** 
+- **Action:** Priority mobile UX improvements:
+  - Simplify mobile checkout flow
+  - Optimize page load speeds
+  - Improve mobile product images/zoom
+  - Add mobile-friendly payment options (Apple Pay, Google Pay)
 
 ### Finding #4: Category Performance
 - **Insight:** Electronics dominates revenue
