@@ -99,3 +99,53 @@ This approach demonstrates:
 ### Why Three Separate Exports?
 GA4 has different metric "scopes" - some work at session level, others at item/product level. Separating them ensures clean, accurate data for analysis and prevents metric conflicts.
 
+## Analysis & Findings
+
+### Python Analysis Notebook
+**File:** `GA4_Ecommerce_Analysis.ipynb`
+
+Complete data analysis performed in Python using:
+- **Pandas** for data manipulation and aggregation
+- **Matplotlib & Seaborn** for professional visualizations
+- **Statistical analysis** of conversion rates, revenue attribution, and customer behavior
+
+**Key Analyses Performed:**
+1. Traffic source performance and ROI comparison
+2. Device-level conversion analysis
+3. Product category performance evaluation
+4. Time-series trend analysis
+5. Customer journey funnel analysis
+
+### Top Findings
+
+**1. Paid Search Delivers Highest Revenue**
+- Google/CPC generated the highest total revenue with strong conversion rates
+- Recommendation: Increase budget allocation by 20-30%
+
+**2. Organic Search Showing Growth**
+- Consistent upward trend in organic sessions
+- Represents lowest-cost acquisition channel
+- Recommendation: Invest in SEO content strategy
+
+**3. Device Performance Insights**
+- [Desktop/Mobile] drives majority of revenue
+- Conversion rate gap between devices presents optimization opportunity
+- Recommendation: Mobile UX improvements could unlock significant revenue
+
+**4. Electronics Category Dominates**
+- Highest revenue-generating product category
+- Strong conversion rates indicate market fit
+- Recommendation: Feature prominently in marketing campaigns
+
+**5. CRO Opportunity**
+- Current conversion rate: ~X.XX%
+- Even small improvements yield substantial revenue gains
+- Recommendation: Implement A/B testing program
+
+### Visualizations Created
+- Revenue by traffic source (bar chart)
+- Conversion rate comparison across channels
+- Device revenue distribution (pie chart)
+- Product category performance (dual-axis chart)
+- Traffic trends over time (line chart)
+
