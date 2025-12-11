@@ -1,7 +1,7 @@
 # GA4-E-commerce-Analytics-Project
 
 ## Project Overview
-Analysis of Google Merchandise Store data using Google Analytics 4 to uncover customer behavior insights and revenue optimization opportunities.
+Analysis of Google Merchandise Store data using Google Analytics 4 to uncover customer behavior insights and revenue optimization opportunities. Written with GPT-assistance for the purpose of learning GA4 workflows. 
 
 ## Business Objectives
 - Understand customer purchase patterns
